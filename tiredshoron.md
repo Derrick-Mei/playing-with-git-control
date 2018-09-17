@@ -7,4 +7,4 @@ git push origin master
 
 push origin shoronbranch
 
-push origin master 2
+push origin master
